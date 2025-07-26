@@ -1,17 +1,3 @@
-p {
-    font-family: Roboto, Arial;
-    margin-top: 0px;
-    margin-bottom: 0px;
-}
-
-.search-bar{
-    font-size: 28px;
-    width: 200px;
-    height: 30px;
-    display: block;
-
-}
-
 .video-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -41,8 +27,6 @@ p {
     margin-bottom: 4px;
 }
 
-
-
 .video-info-grid {
     display: grid;
     grid-template-columns: 50px 1fr;
@@ -50,9 +34,7 @@ p {
 }
 
 .channel-picture {
-
     vertical-align: top;
-
 }
 
 
